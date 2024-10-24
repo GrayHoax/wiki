@@ -47,6 +47,10 @@ Tested on GK7205V300 for /dev/ttyАМА1:
   mux 72->UART1_TXD: devmem 0x112c0078 32 1 
   mux 73->UART1_RXD: devmem 0x112c007c 32 1
 ```
+### 85HF20PY-S
+| Processor   | IRCUT1 | IRCUT2 | IRSTATUS | IRCTL | USB_ENA | Description |
+|-------------|--------|--------|----------|-------|---------|-------------|
+| hi3516ev200 | 8?     | 9?     |          |       |         |             |
 
 
 ### CCDCAM / Hankvision boards
